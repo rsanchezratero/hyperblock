@@ -3,3 +3,6 @@ Esto es una prueba
 Raul tiene 36 años, viviendo en Valladolid
 
 estoy haciendo un curso de git
+
+El curso de git es bueno, 
+veremos si me sirve

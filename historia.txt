@@ -1,8 +1,7 @@
 Esto es una prueba 
 
-Raul tiene 36 años, viviendo en Valladolid
+Raul tiene 35 años
 
 estoy haciendo un curso de git
 
-El curso de git es bueno, 
-veremos si me sirve yo creo que si
+Nuevo cambios

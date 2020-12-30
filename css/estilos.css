@@ -28,3 +28,11 @@ body
     font-size: 14px;
 
 }
+#footer
+{
+    color: #FFF;
+    background-color:#BCBCBC;
+    text-align: center;
+    padding:10px;
+
+}
